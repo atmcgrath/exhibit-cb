@@ -1,6 +1,7 @@
-objectid,filename,youtubeid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
-bk001,BMC-BS-0013.Image_1.193800.jpg,,Divinity School and bryn mawr book plates,,,,,,40.0278802,-75.3144595,,,Image;StillImage,image/jpeg,,,
-bk002,IMG_2286.JPG,,Book Traces Team,Alice McGrath,2/26/2020,Photograph of three students looking at old books,,"Bryn Mawr, PA",40.0278802,-75.3144595,,,Image;StillImage,image/jpeg,,,
-bk003,BMC-PR-0173.Image_3.191728.jpg,,"Inscription, Letters of Frances Burney",,1880,"Inscription reads: Mary E. Garret, June 18th, 1880, New York.",inscription,"New York, NY",40.7762324,-74.1184188,,,Image;StillImage,image/jpeg,,,
-bk004,BMC-E-0088.Image_1.011700.jpg,,Life of Amos A. Lawrence: Owner dedication,William Lawrence,03/04/1888,Author inscription to Horace E. Scudder,inscription,,,,,,Image;StillImage,image/jpeg,,,
-bk005,BMC-PR-0225.Image_2.203205.jpg,,"Inscription, The Prose Works of Jonathan Swift",,1913,"Inscription: Lucy Martin Donnelly, 1913",,"Bryn Mawr, PA",40.0278802,-75.3144595,,,Image;StillImage,image/jpeg,,,
+objectid,filename,youtubeid,title,annotator,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement
+bk001,BMC-BS-0013.Image_1.193800.jpg,,Divinity School and bryn mawr book plates,,,,,bookplates,"Bryn Mawr, PA",40.0278802,-75.3144595,,,Image;StillImage,image/jpeg,eng,Public domain,
+bk002,IMG_2286.JPG,,Book Traces Team,,Alice McGrath,2/26/2020,Photograph of three students looking at old books,research,"Bryn Mawr, PA",40.0278802,-75.3144595,,,Image;StillImage,image/jpeg,eng,Public domain,
+bk003,BMC-PR-0173.Image_3.191728.jpg,,"Inscription, Letters of Frances Burney",Mary E. Garret,,1880,"Inscription reads: Mary E. Garret, June 18th, 1880, New York.",inscription,"New York, NY",40.7762324,-74.1184188,,,Image;StillImage,image/jpeg,eng,Public domain,
+bk004,BMC-E-0088.Image_1.011700.jpg,,Life of Amos A. Lawrence: Owner dedication,William Lawrence,William Lawrence,03/04/1888,Author inscription to Horace E. Scudder,inscription,"Boston, MA",,,,,Image;StillImage,image/jpeg,eng,Public domain,
+bk005,BMC-PR-0225.Image_2.203205.jpg,,"Inscription, The Prose Works of Jonathan Swift",Lucy Martin Donnelly,,1913,"Inscription: Lucy Martin Donnelly, 1913",inscription,"Bryn Mawr, PA",40.0278802,-75.3144595,,,Image;StillImage,image/jpeg,eng,Public domain,
+bk005,https://booktraces-public.lib.virginia.edu/uploads/2020/partners/bryn_mawr/B_Images/BMC-BS-0039.Image_1.160412.jpg,,"Inscription, Ioannis Calvini in Novum Testamentum commentarii",O. Maus,,1850,"Inscription: Mr. O. Maus, 1850",inscription,,,,,BMC-BS-0039.Image_1.160412.jpg,Image;StillImage,image/jpeg,eng,Public domain,
