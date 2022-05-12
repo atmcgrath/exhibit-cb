@@ -7,3 +7,5 @@ permalink: /browse.html
 ---
 
 ## Browse Items
+
+Here are some photos we took of interesting marginalia.
